@@ -4,13 +4,11 @@
     "products": [
       {
         "name": "Shadow Apex Full",
-        "url": "https://example.com/downloads/shadow_apex_full_installer.exe",
-        "filename": "Shadow_Apex_Full_Installer.exe"
+        "url": "https://example.com/downloads/shadow_apex_full_installer.exe"
       },
       {
         "name": "Dullwave Apex",
-        "url": "https://example.com/downloads/dullwave_apex_installer.exe",
-        "filename": "Dullwave_Apex_Installer.exe"
+        "url": "https://example.com/downloads/dullwave_apex_installer.exe"
       }
     ]
   },
@@ -19,8 +17,125 @@
     "products": [
       {
         "name": "Ghost ARC Raiders",
-        "url": "https://example.com/downloads/ghost_arc_raiders_installer.exe",
-        "filename": "Ghost_ARC_Raiders_Installer.exe"
+        "url": "https://example.com/downloads/ghost_arc_raiders_installer.exe"
+      }
+    ]
+  },
+  {
+    "game": "Arena Breakout Infinite",
+    "products": [
+      {
+        "name": "Ghost ABI Full",
+        "url": "https://example.com/downloads/ghost_arena_breakout_infinite_installer.exe"
+      },
+      {
+        "name": "Ghost ABI ESP",
+        "url": "nothing yet"
+      },
+      {
+        "name": "Reaper ABI Radar",
+        "url": "nothing yet"
+      }
+    ]
+  },
+  {
+    "game": "Call of Duty",
+    "products": [
+      {
+        "name": "Ghost MW4",
+        "url": "nothing yet"
+      },
+      {
+        "name": "Reaper COD",
+        "url": "nothing yet"
+      },
+      {
+        "name": "Ghost COD",
+        "url": "nothing yet"
+      },
+      {
+        "name": "RUT Unlock Tool + UAV",
+        "url": "nothing yet"
+      }
+    ]
+  },
+  {
+    "game": "Delta Force",
+    "products": [
+      {
+        "name": "Shadow Detla Force Full",
+        "url": "nothing yet"
+      }
+    ]
+  },
+  {
+    "game": "Fortnite",
+    "products": [
+      {
+        "name": "Viper Fortnite",
+        "url": "nothing yet"
+      }
+    ]
+  },
+  {
+    "game": "FiveM",
+    "products": [
+      {
+        "name": "RedENGINE FiveM Lua Executor",
+        "url": "nothing yet"
+      }
+    ]
+  },
+  {
+    "game": "PUBG",
+    "products": [
+      {
+        "name": "Phoenix PUBG",
+        "url": "nothing yet"
+      }
+    ]
+  },
+  {
+    "game": "Rainbow Six Siege",
+    "products": [
+      {
+        "name": "Inferno R6",
+        "url": "nothing yet"
+      },
+      {
+        "name": "Glacier R6 Unlock All",
+        "url": "nothing yet"
+      },
+      {
+        "name": "Ice R6 Script",
+        "url": "nothing yet"
+      }
+    ]
+  },
+  {
+    "game": "Roblox",
+    "products": [
+      {
+        "name": "DX9WARE Roblox",
+        "url": "nothing yet"
+      }
+    ]
+  },
+  {
+    "game": "Valorant",
+    "products": [
+      {
+        "name": "Viper Valorant",
+        "url": "nothing yet"
+      }
+    ]
+  },
+  {
+    "game": "WARDOGS",
+    "products": [
+      {
+        "name": "Ghost WARDOGS",
+        "url": "nothing yet"
       }
     ]
   }
