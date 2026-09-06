@@ -1,0 +1,27 @@
+[
+  {
+    "game": "Apex Legends",
+    "products": [
+      {
+        "name": "Shadow Apex Full",
+        "url": "https://example.com/downloads/shadow_apex_full_installer.exe",
+        "filename": "Shadow_Apex_Full_Installer.exe"
+      },
+      {
+        "name": "Dullwave Apex",
+        "url": "https://example.com/downloads/dullwave_apex_installer.exe",
+        "filename": "Dullwave_Apex_Installer.exe"
+      }
+    ]
+  },
+  {
+    "game": "Arc raiders",
+    "products": [
+      {
+        "name": "Ghost ARC Raiders",
+        "url": "https://example.com/downloads/ghost_arc_raiders_installer.exe",
+        "filename": "Ghost_ARC_Raiders_Installer.exe"
+      }
+    ]
+  }
+]
