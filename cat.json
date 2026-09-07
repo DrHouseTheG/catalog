@@ -4,11 +4,11 @@
     "products": [
       {
         "name": "Shadow Apex Full",
-        "url": "https://example.com/downloads/shadow_apex_full_installer.exe"
+        "url": ""
       },
       {
         "name": "Dullwave Apex",
-        "url": "https://example.com/downloads/dullwave_apex_installer.exe"
+        "url": ""
       }
     ]
   },
@@ -17,7 +17,7 @@
     "products": [
       {
         "name": "Ghost ARC Raiders",
-        "url": "https://example.com/downloads/ghost_arc_raiders_installer.exe"
+        "url": ""
       }
     ]
   },
@@ -37,7 +37,7 @@
       {
         "name": "Reaper ABI Radar",
         "url": "",
-        "open": "https://ghost.download/"
+        "open": ""
       }
     ]
   },
@@ -140,6 +140,26 @@
         "name": "Ghost WARDOGS",
         "url": "",
         "open": "https://ghost.download/"
+      }
+    ]
+  },
+  {
+    "game": "HWID SPOOFERS",
+    "products": [
+      {
+        "name": "Ghost COD Spoofer",
+        "url": "",
+        "open": ""
+      },
+      {
+        "name": "Reaper ABI Spoofer",
+        "url": "",
+        "open": ""
+      },
+      {
+        "name": "PC HWID Unban",
+        "url": "",
+        "open": ""
       }
     ]
   }
