@@ -26,15 +26,18 @@
     "products": [
       {
         "name": "Ghost ABI Full",
-        "url": "https://example.com/downloads/ghost_arena_breakout_infinite_installer.exe"
+        "url": "",
+        "open": "https://ghost.download/"
       },
       {
         "name": "Ghost ABI ESP",
-        "url": "nothing yet"
+        "url": "",
+        "open": "https://ghost.download/"
       },
       {
         "name": "Reaper ABI Radar",
-        "url": "nothing yet"
+        "url": "",
+        "open": "https://ghost.download/"
       }
     ]
   },
@@ -104,11 +107,11 @@
       },
       {
         "name": "Glacier R6 Unlock All",
-        "url": "https://cdn.discordapp.com/attachments/1546241060898996224/1546244726917828729/Installer.exe?ex=6a9f141e&is=6a9dc29e&hm=dffb25ff9040758867ae3acbae1828591fce4a5915c3b515563b06c3bc8062d1&"
+        "url": "nothing yet"
       },
       {
         "name": "Ice R6 Script",
-        "url": "https://cdn.discordapp.com/attachments/1540206834600640613/1545886782829371423/Vebicexen.exe?ex=6a9f1842&is=6a9dc6c2&hm=fb972bde69b8fad956cc251023f3339c6bfbdbf5a4a5966085fc0a07eec40a18&"
+        "url": "nothing yet"
       }
     ]
   },
@@ -135,7 +138,8 @@
     "products": [
       {
         "name": "Ghost WARDOGS",
-        "url": "nothing yet"
+        "url": "",
+        "open": "https://ghost.download/"
       }
     ]
   }
