@@ -5,19 +5,5 @@
     "solution": "1. Open Windows Security -> Virus & threat protection.\n2. Click 'Manage settings' under Virus & threat protection settings.\n3. Turn off Real-time protection, or scroll down to 'Exclusions' and add your Downloads/game folder as an exclusion.",
     "button_text": "Open Windows Security",
     "action_url": "windowsdefender:"
-  },
-  {
-    "title": "Missing Visual C++ Redistributables",
-    "description": "Loader crashes on launch or gives an error about missing MSVCP140.dll / VCRUNTIME140.dll.",
-    "solution": "Install the All-in-One Visual C++ Runtime package from Microsoft to fix missing DLL dependencies.",
-    "button_text": "Download All-in-One Visual C++",
-    "action_url": "https://aka.ms/vs/17/release/vc_redist.x64.exe"
-  },
-  {
-    "title": "DirectX Runtime Error",
-    "description": "Overlay or menu doesn't show in-game due to missing DirectX runtime.",
-    "solution": "Download and run the Microsoft DirectX End-User Runtime Web Installer.",
-    "button_text": "Download DirectX Runtime",
-    "action_url": "https://www.microsoft.com/en-us/download/details.aspx?id=35"
   }
 ]
