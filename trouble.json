@@ -5,5 +5,24 @@
     "solution": "1. Open Windows Security -> Virus & threat protection.\n2. Click 'Manage settings' under Virus & threat protection settings.\n3. Turn off Real-time protection, or scroll down to 'Exclusions' and add your Downloads/game folder as an exclusion.",
     "button_text": "Open Windows Security",
     "action_url": "windowsdefender:"
+  },
+  {
+    "title": "Network Error / Could Not Establish Connection",
+    "description": "The loader cannot establish a connection, preventing you from continuing or downloading the required files.",
+    "solution": "1. Try connecting to a VPN of your choice.\n2. Recommended VPNs are Cloudflare WARP or Proton VPN.\n3. Connect to the VPN and restart the loader.\n4. Try downloading or continuing again.",
+    "button_text": "Try Cloudflare WARP",
+    "action_url": "https://one.one.one.one/"
+  },
+  {
+    "title": "Features Not Visible In-Game",
+    "description": "The loader starts successfully and features are enabled, but nothing appears on your screen in-game.",
+    "solution": "Disable all third-party overlays that may interfere with the loader, including Discord Overlay, AMD Overlay, NVIDIA Overlay, and MSI Afterburner/RivaTuner. Restart the game and loader after disabling them."
+  },
+  {
+    "title": "Driver Not Compatible",
+    "description": "You launch the loader and receive a 'Driver Not Compatible' error. The loader may also restart before displaying this message.",
+    "solution": "Disable all Core Isolation settings in Windows Security, then restart your PC and launch the loader again.",
+    "button_text": "Open Core Isolation",
+    "action_url": "windowsdefender:"
   }
 ]
